@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Double Dice</string>
+    <string name="roll">Roll</string>
+    <color name="red">#FF0000</color>
+</resources>
